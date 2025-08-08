@@ -1,0 +1,6 @@
+{
+  "name": "yasirath",
+  "description": "A full-stack e-commerce Next.js website for Yasir Perfumes, showcasing a collection of luxury fragrances. Users can browse products, add items to their cart and favorites, and proceed to checkout. Includes a full admin dashboard for content and product management.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
