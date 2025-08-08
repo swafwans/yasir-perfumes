@@ -41,6 +41,7 @@ const AppContent: React.FC<{ Component: React.ElementType, pageProps: any }> = (
         <title>Yasir Perfumes - The Essence of Luxury</title>
         <meta name="description" content="A modern, responsive e-commerce website for Yasir Perfumes, showcasing a collection of luxury fragrances." />
         <meta name="google-site-verification" content="-UMg7pj2yTZ21vaaiPOCDDULU1s1-Qz3ZGAnnVnA_Vg" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       {!isAdminRoute && !isAuthPage && <Header />}
